@@ -46,6 +46,9 @@ Feel free to modify components inside the src folder to customize the website co
 Contributing
 Contributions are welcome! Please fork the repo and create a pull request with your enhancements.
 
+Live Demo Link -netlify 
+https://storied-froyo-e1462d.netlify.app/
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
