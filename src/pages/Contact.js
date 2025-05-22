@@ -50,8 +50,8 @@ const Contact = () => {
 
       <div>
         <h5>Contact Information</h5>
-        <p><strong>Phone:</strong> +1 234 567 890</p>
-        <p><strong>Email:</strong> contact@todaysdental.com</p>
+        <p><strong>Phone:</strong> +91 8106815255</p>
+        <p><strong>Email:</strong> jaddu0503@gmail.com</p>
         <p><strong>Address:</strong> 123 Smile Street, Dental City, CA</p>
 
         <div className="ratio ratio-16x9 mt-3">
