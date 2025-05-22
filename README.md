@@ -27,7 +27,7 @@ A modern, responsive dental clinic website built with **React**, **Bootstrap**, 
 Navigate into the project directory:
 
 
-cd dental-website
+cd Todays-Dental-Website
 Install the dependencies:
 
 
@@ -38,9 +38,7 @@ Run the development server:
 npm start
 Open your browser and go to:
 
-arduino
-Copy
-Edit
+
 http://localhost:3000
 Usage
 Feel free to modify components inside the src folder to customize the website content and styling according to your needs.
